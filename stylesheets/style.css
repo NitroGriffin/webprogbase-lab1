@@ -9,7 +9,6 @@ body {
 	width: 1200px;
 	border: 1px solid red;
     margin: auto;
-    background: white;
 }
 .wrapper>div{
 	margin: 10px;
@@ -17,7 +16,7 @@ body {
 }
 
 .header{
-	border: 1px solid green;
+	border: solid 1px black;
 	background: green;
 }
 .header img#logo{
@@ -30,7 +29,7 @@ body {
 }
 
 .wrapper>.menu{
-	border: solid 1px yellow;
+	border: solid 1px black;
 	width: 20%;
 	float:left;
 	background: yellow;
