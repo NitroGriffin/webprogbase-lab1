@@ -1,0 +1,61 @@
+body {
+    background-color: #a4c1b5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000;
+}
+
+.wrapper{
+	width: 1200px;
+	border: 1px solid red;
+    margin: auto;
+    background: white;
+}
+.wrapper>div{
+	margin: 10px;
+	padding: 20px;
+}
+
+.header{
+	border: 1px solid green;
+	background: green;
+}
+.header img#logo{
+  height: 78px;
+  width: 132px;
+}
+.header h1{
+	display: inline-block;
+    margin-left: 50px;
+}
+
+.wrapper>.menu{
+	border: solid 1px yellow;
+	width: 20%;
+	float:left;
+	background: yellow;
+}
+
+.wrapper>.content{
+	border: solid 1px black;
+    width: 70%;
+    float: right;
+    background: #afafec;
+    margin-left: 0;
+}
+.content  table{
+	width:100%; 
+	border:2px solid black;
+	border-collapse:collapse;
+}
+.content td,
+.content tr,
+.content th{
+	border:2px solid black;
+}
+
+
+#AVATAR{
+  height: 300px;
+  width: 300px;
+}
