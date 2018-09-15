@@ -68,6 +68,12 @@ body {
 	margin-left: 350px;
 }
 
+.active-button {
+    background-color:   #808080;
+    font: 21px Verdana, sans-serif;
+    color:  red;
+}
+
 
 #AVATAR{
   height: 300px;
