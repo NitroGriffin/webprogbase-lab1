@@ -32,7 +32,9 @@ body {
 	width: 20%;
 	float:left;
 	background: yellow;
-	font-size: 19px;
+	font-family: Verdana, Helvetica, sans-serif;
+    font-size: 21px;
+
 }
 
 .wrapper>.content{
@@ -53,8 +55,19 @@ body {
 	border:2px solid black;
 }
 
+.content ul {
+	margin-left: 300px;
+}
+.content li{
+	margin-top: 30px;
+}
+.content p {
+	margin-top: 150px;
+}
+
 
 #AVATAR{
   height: 300px;
   width: 300px;
+  float: left;
 }
