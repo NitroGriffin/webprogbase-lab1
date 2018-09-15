@@ -32,6 +32,7 @@ body {
 	width: 20%;
 	float:left;
 	background: yellow;
+	font-size: 21px;
 }
 
 .wrapper>.content{
