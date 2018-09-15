@@ -62,7 +62,7 @@ body {
 	margin-top: 30px;
 }
 .content p {
-	margin-top: 150px;
+	margin-top: 160px;
 }
 .content h1{
 	margin-left: 350px;
@@ -73,4 +73,25 @@ body {
   height: 300px;
   width: 300px;
   float: left;
+}
+
+#avatarformessage{
+	height: 150px;
+  	width: 150px;
+  	border-radius: 50%;
+  	float: left;
+  	margin-right: 20px;
+
+}
+#pictureinmesssage{
+	float: right;
+	height: 150px;
+	width: 300px;
+}
+#avatarforcommentary{
+	height: 100px;
+  	width: 100px;
+  	border-radius: 50%;
+  	float: left;
+  	margin-right: 20px;
 }
