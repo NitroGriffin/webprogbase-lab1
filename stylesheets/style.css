@@ -69,7 +69,7 @@ body {
 }
 
 .active-button {
-    background-color:   #808080;
+    background-color:   yellow;
     font: 21px Verdana, sans-serif;
     color:  red;
 }
